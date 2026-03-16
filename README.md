@@ -1,2 +1,0 @@
-ABM Engine automates B2B company research. Give it a company name and website URL — it scrapes their public site, extracts 12 tech signals (cloud provider, Kubernetes, DevOps hiring, AI/ML, compliance domain and more), scores the company 0–100 on outreach fit, and writes a personalised cold email based on what it finds.
-Built with Python, Flask, and BeautifulSoup. Includes a full web dashboard for importing companies, running batch processing, and exporting results to CSV or Excel.
